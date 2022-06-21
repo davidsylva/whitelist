@@ -1,0 +1,54 @@
+[
+    {
+        "address": "0x9b1eed9B3A17036712460deA850FCA2A798F15E5",
+        "allocation": "460000000000000000000"
+    },
+    {
+        "address": "0xd5a9376BdE1e989e5Db8A9F570DA52276562E5f0",
+        "allocation": "80000000000000000000"
+    },
+    {
+        "address": "0xEf828cbd263D16354e6DC48f9bF6517ae3cdaAb0",
+        "allocation": "260000000000000000000"
+    },
+    {
+        "address": "0xa95be53dd90B845f58Da33C676481E2D55011399",
+        "allocation": "20000000000000000000"
+    },
+    {
+        "address": "0x2160Db94eD7aBC0e6100A3AEAB0698C70E5E1193",
+        "allocation": "1740000000000000000000"
+    },
+    {
+        "address": "0x40F67F727e9e8647743BF7e0f0c9ef5B8a59030a",
+        "allocation": "80000000000000000000"
+    },
+    {
+        "address": "0x7A1fD6a61F1587fB3027a5fB04dcceE34EB829EC",
+        "allocation": "80000000000000000000"
+    },
+    {
+        "address": "0x9b4d01e92a336342085126A63c82A878c96b0b0c",
+        "allocation": "320000000000000000000"
+    },
+    {
+        "address": "0x201C92F45c022a637aad6C455c1473f373c3d0a4",
+        "allocation": "400000000000000000000"
+    },
+    {
+        "address": "0x97118Dad9e16F79d3FdD2788224E518a45F9f79c",
+        "allocation": "100000000000000000000"
+    },
+    {
+        "address": "0xCA925C8900f6f27e89B9BebC4987a655Cb43911f",
+        "allocation": "200000000000000000000"
+    },
+    {
+        "address": "0x8dDB2D1444dFD8f02facc19b15207563Cc7f6eD9",
+        "allocation": "200000000000000000000"
+    },
+    {
+        "address": "0x6d2DBF9DC0418B870733E2B60aCcC8773409a596",
+        "allocation": "40000000000000000000"
+    }
+]
